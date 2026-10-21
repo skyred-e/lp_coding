@@ -45,7 +45,7 @@ a{
 nav.nav-menu{
   position: fixed;
   z-index: 20;
-  width: 100vw;
+  width: 100%;
   height: 100vh;
   top: 0;
   background-color: var(--coler-main);
@@ -186,6 +186,7 @@ nav .btn:hover{
   }
 }
 header{
+  width: 100%;
   margin-bottom: var(--content-margin-s);
 }
 header h1{
@@ -369,6 +370,8 @@ main h3::after{
 }
 #reason .reason-content{
   background-color: var(--coler-main);
+  width: 100%;
+  overflow: hidden;
   padding: var(--content-margin-l) 0;
 }
 @media screen and (min-width: 900px) {
