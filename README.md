@@ -1,8 +1,8 @@
 # LPコーディングサンプル
-公開されている無料のデザインカンプを元に、仕様を確認しながらコーディングを行いました。  
+公開されている無料のデザインカンプを元に、仕様を確認しながらコーディングを行いました。
 カンプ提供元：<https://code-jump.com/lp-menu/>
 
-公開ページ：<https://skyred-e.github.io/lp_coding/>  
+公開ページ：<https://skyred-e.github.io/lp_coding/>
 ソースコード：<https://github.com/skyred-e/lp_coding>
 
 ## ■使用技術
